@@ -1,0 +1,31 @@
+{
+    "squadName": "Power Squad",
+    "homeTown": "Folketinget",
+    "formed": 1945,
+    "secretBase": "Super Political",
+    "active": true,
+    "members": [
+      {
+        "name": "Pia Kjærsgaard",
+        "age": 73,
+        "secretIdentity": "Hjemmehjælperen",
+        "powers": ["I'm not even gonna go there."],
+        "image": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.18169-9/11391235_994473643920737_692180639302272057_n.png?_nc_cat=100&ccb=1-7&_nc_sid=4dc865&_nc_ohc=fhPaExGSJuQAX95Y6km&_nc_ht=scontent-cph2-1.xx&oh=00_AfBffCV43l0eFqzpwp6DSlQrTyjdEtQwVtHZiP5FbqTepQ&oe=65662D91"
+      },
+      {
+        "name": "Rasmus Paludan",
+        "age": 39,
+        "secretIdentity": "Danernes Lys",
+        "powers": ["Unique creature."],
+        "image": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.6435-9/57384360_2462616463773107_1601351248911532032_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=4dc865&_nc_ohc=NkKKcigyHF8AX8oLBRg&_nc_ht=scontent-cph2-1.xx&oh=00_AfDmwY_byXIjq5CytrkMZd3aIJtMTVYaZ2OZy-AyfPJF8Q&oe=65660777"
+      },
+      {
+        "name": "Helle Thorning-S.",
+        "age": 53,
+        "secretIdentity": "Big Bucks.",
+        "powers": ["Read Card."],
+        "image": "https://scontent-cph2-1.xx.fbcdn.net/v/t1.18169-9/11377172_993969350637833_420430276463459557_n.png?_nc_cat=104&ccb=1-7&_nc_sid=4dc865&_nc_ohc=Fk3UHDfoL0YAX9AZLvy&_nc_ht=scontent-cph2-1.xx&oh=00_AfASk28UsFfrIaAwpb3n_9EwwlKYV-ExoqmZzuAunRI_Mw&oe=6566347D"
+      }
+    ]
+  }
+  
